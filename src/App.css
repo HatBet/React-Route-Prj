@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.grid{
+  margin: 3em;
+}
+.ui.form{
+  margin: auto;
+  width: 25em;
+  position: right;
+} 
+.field{
+  position: relative;
+}
+#cvForm{
+  width: 800px;
+  height: auto;
+}
+
+.labelG{
+  float: left;
+}
+
+.a{
+  align-items: center;
+}
